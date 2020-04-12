@@ -1,4 +1,4 @@
-# JUnit Platform Sample
+# POC: JUnit Platform Sample
 
 It demonstrates how to run tests written for both JUnit 4 and JUnit 5 in the same project.
 
